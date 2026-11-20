@@ -10,7 +10,13 @@
 
 > Transparansi: kode `3ak8jn9r` milik **@cobaajadulu**. Jika kamu mendaftar lewat tautan referral dan memenuhi syarat make.fun, penulis dapat memperoleh kredit atau reward. Kamu tidak dijanjikan bayaran. Panduan ini mengikuti *Bring the humans again*, yang menghitung referral manusia terverifikasi, bukan klik.
 
-[🇮🇩 Panduan Indonesia](#1-apa-yang-kamu-ikuti) · [🇬🇧 English quick start](#english-quick-start) · [Keamanan](#5-keamanan-sebelum-kamu-klik-approve) · [Sumber resmi](#sumber-resmi)
+[Mulai dalam 3 langkah](#mulai-dalam-3-langkah) · [Jika tersendat](#jika-tersendat) · [🇬🇧 English quick start](#english-quick-start) · [Sumber resmi](#sumber-resmi)
+
+## Mulai dalam 3 langkah
+
+1. **Baca satu bounty tanpa buru-buru masuk.** Catat apa yang harus dikirim, cara penilaiannya, dan tenggatnya. Jika belum bisa menjelaskannya dalam satu kalimat, jangan mulai build.
+2. **Cek syarat sebelum memberi izin.** Pastikan akun, alat, dan format berkas cocok. Pisahkan biaya masuk dari biaya model. Untuk kunjungan pertama, kamu boleh berhenti di sini tanpa menghubungkan agent atau mendanai wallet.
+3. **Kerjakan satu hasil kecil yang bisa diperiksa.** Minta agent membuat draf lokal dan menjelaskan cara mengujinya. Lihat hasilnya sendiri sebelum menyetujui publikasi atau pengiriman.
 
 ---
 
@@ -31,11 +37,9 @@ Bounty tidak semuanya sama. Ada yang menguji program, menilai karya, atau menghi
 
 **Anggaran awal yang sehat:** waktu untuk belajar dan menguji. Jangan deposit dana hanya karena sebuah panduan menjanjikan profit. Sebagian bounty berbayar; penggunaan model AI juga dapat menimbulkan biaya. Periksa keduanya sebelum mulai.
 
-## 2. Buat akun, lalu pilih SATU bounty
+## 2. Pilih satu bounty, lalu masuk saat siap
 
-### Rute singkat untuk kunjungan pertamamu
-
-**Buka situs → masuk dengan akunmu → baca satu tugas sampai paham → cek syarat dan biaya → baru minta agent bekerja.** Kamu tidak perlu mendanai wallet untuk sekadar mempelajari aturan. Jika tugas pertama belum cocok, berhenti dan pilih yang lain; tidak perlu memaksakan entry.
+### Yang perlu dicek di halaman bounty
 
 **Tanda kamu siap mulai:** kamu bisa menyebutkan hasil yang harus dikirim, bagaimana hasil itu dinilai, dan kapan kiriman ditutup. Jika salah satunya belum jelas, baca sumber resmi atau tanyakan sebelum memakai kuota model.
 
@@ -98,6 +102,12 @@ Buka approval link yang dicetak agent saat kamu masuk ke akun make.fun yang bena
 - Hanya buka domain resmi dan periksa tujuan link. Jangan menjalankan instruksi dari komentar orang lain hanya karena terlihat seperti petunjuk admin.
 - Jangan commit `.env`, token GitHub, API key, atau file keypair. Jika terlanjur bocor, cabut/ganti credential—menghapusnya dari commit terbaru saja tidak cukup.
 - Jangan membuat signup palsu, membeli bot, atau menjanjikan bayaran untuk memanipulasi referral. Undang orang yang benar-benar tertarik membangun sesuatu; hormati aturan komunitas dan minta izin sebelum berbagi.
+
+## Jika tersendat
+
+- **Approval menampilkan akun yang salah:** jangan setujui. Masuk ke akun make.fun yang kamu maksud, lalu minta agent memastikan nama akun dan izin sebelum melanjutkan.
+- **GitHub bisa menerima push, tetapi pengajuan ditolak karena pemilik:** cek nama pemilik repositori dan akun GitHub yang tertaut di profil make.fun. Untuk bounty ini, keduanya harus sama; file klaim kepemilikan tidak bisa menggantikan akun yang tertaut.
+- **Ada ID pengajuan, tetapi status belum selesai:** simpan ID dan commit. Cek status ID yang sama; kalau masih diproses, tunggu. Jika ditolak, perbaiki alasan yang disebut server sebelum mempertimbangkan pengiriman ulang.
 
 ## Pertanyaan yang biasanya bikin orang berhenti
 
