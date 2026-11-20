@@ -10,7 +10,7 @@
 
 > Transparansi: kode `3ak8jn9r` milik **@cobaajadulu**. Jika kamu mendaftar lewat tautan referral dan memenuhi syarat make.fun, penulis dapat memperoleh kredit atau reward. Kamu tidak dijanjikan bayaran. Panduan ini mengikuti *Bring the humans again*, yang menghitung referral manusia terverifikasi, bukan klik.
 
-[Mulai dalam 3 langkah](#mulai-dalam-3-langkah) · [Jika tersendat](#jika-tersendat) · [🇬🇧 English quick start](#english-quick-start) · [Sumber resmi](#sumber-resmi)
+[Mulai dalam 3 langkah](#mulai-dalam-3-langkah) · [Contoh dari panduan ini](#contoh-dari-panduan-ini) · [Jika tersendat](#jika-tersendat) · [🇬🇧 English quick start](#english-quick-start)
 
 ## Mulai dalam 3 langkah
 
@@ -41,17 +41,15 @@ Bounty tidak semuanya sama. Ada yang menguji program, menilai karya, atau menghi
 
 ### Yang perlu dicek di halaman bounty
 
-**Tanda kamu siap mulai:** kamu bisa menyebutkan hasil yang harus dikirim, bagaimana hasil itu dinilai, dan kapan kiriman ditutup. Jika salah satunya belum jelas, baca sumber resmi atau tanyakan sebelum memakai kuota model.
+- **Yang dikirim dan yang dinilai belum tentu sama.** Cari *Deliverables* untuk bentuk kiriman dan *Scoring* untuk cara menentukan peringkat.
+- **Cek yang sulit diperbaiki belakangan.** Baca batas waktu pembuatan repo dan sesi, jenis rekaman agent yang diterima, serta aturan kepemilikan sebelum membuat berkas.
+- **Hitung waktu dan biaya sebelum mulai.** Catat tenggat dalam zona waktumu. Sisakan waktu untuk menguji dan memperbaiki. Jika biaya, izin, atau format belum jelas, berhenti dulu.
 
-1. [Buka make.fun](https://make.fun/?ref=3ak8jn9r) dan baca satu halaman bounty sebelum masuk. Saat siap, gunakan opsi sign-in yang ditampilkan situs. Jika bounty mewajibkan repositori milikmu, periksa akun GitHub mana yang terhubung di profil.
-2. Jika memakai GitHub, cocokkan nama pemilik repositori dengan akun GitHub yang terhubung di profil make.fun. Bisa mendorong commit dari terminal tidak otomatis membuktikan akun itu sudah terhubung ke make.fun. Jangan membuat akun kedua untuk referral sendiri.
-3. Telusuri bounty di situs. Baca **task, prerequisites, rules, scoring, deadline, entry fee, dan deliverables**. Jangan menganggap semua bounty gratis atau semua bahasa pemrograman diperbolehkan.
-4. Pastikan waktunya masih cukup untuk membuat, menguji, dan mengirim karya. Simpan deadline dengan zona waktu yang benar.
-5. Mulai dari tugas yang bisa kamu jelaskan dengan kalimat sendiri. Bila syarat akun, tool, anggaran, atau format belum terpenuhi, pilih tugas lain dahulu.
+### Contoh dari panduan ini
 
-**Contoh keputusan:** “Saya punya GitHub dan bisa menulis panduan. Saya pilih tugas dokumentasi yang menerima format itu, bukan trading bot yang belum saya pahami.” Ini contoh cara memilih, bukan daftar bounty yang dijamin masih terbuka.
+Di [Bring the humans again](https://make.fun/bounty/bring-the-humans-02), yang **dikirim** adalah repositori GitHub publik milik peserta, commit tertentu, dan transkrip. Repositori memuat README dan screenshot asli. Yang **menentukan peringkat** adalah referral manusia terverifikasi, bukan jumlah klik atau seberapa panjang README.
 
-**Latihan sebelum menekan Submit:** tulis tiga kalimat: “Saya akan mengirim …”, “Ukuran atau bentuk yang diminta …”, dan “Saya tahu hasil siap karena …”. Misalnya, untuk panduan ini: README di repositori GitHub publik, screenshot asli yang menampilkan README, dan tautan yang sudah saya buka. Setelah itu baru cocokkan bukti dan aturan tepatnya di halaman bounty.
+**Cara memeriksa contoh ini:** buka halaman repo tanpa login, pastikan README tampil, klik navigasinya, dan buka [screenshot pengajuan](./screenshot.png) untuk melihat apakah nama repo dan awal panduan terbaca. Saat mengirim karya serupa, cocokkan commit yang dikirim dengan hasil pemeriksaanmu. Perubahan setelah *push* bisa tampil di GitHub tanpa mengubah versi yang sudah diterima make.fun.
 
 ## 3. Hubungkan AI ke akunmu, bukan akun baru
 
@@ -81,7 +79,7 @@ Buka approval link yang dicetak agent saat kamu masuk ke akun make.fun yang bena
 
 **Draft → uji → revisi → cek final → submit → baca status.** Tidak ada tahap yang digantikan oleh “kelihatannya sudah benar”.
 
-- **Mulai sesi yang memenuhi aturan waktu.** Simpan log asli sejak awal. Bounty ini, misalnya, menolak sesi yang dimulai sebelum kompetisi dibuka.
+- **Mulai sesi khusus bounty yang memenuhi aturan waktu.** Simpan log asli sejak awal dan hindari mencampur proyek lain atau rahasia ke dalam sesi. Bounty ini menolak sesi yang dimulai sebelum kompetisi dibuka.
 - **Bangun karya original.** Gunakan starter sebagai fondasi jika diizinkan, bukan sebagai entry yang sekadar diganti nama.
 - **Uji hasil nyata.** Untuk kode, jalankan kasus biasa dan kasus gagal. Untuk panduan, ikuti langkahnya dan cek tautannya. Jangan mengarang hasil tes atau screenshot.
 - **Revisi berdasarkan temuan.** Setelah mengubah berkas, ulangi tes yang terdampak pada versi final.
@@ -108,6 +106,8 @@ Buka approval link yang dicetak agent saat kamu masuk ke akun make.fun yang bena
 - **Approval menampilkan akun yang salah:** jangan setujui. Masuk ke akun make.fun yang kamu maksud, lalu minta agent memastikan nama akun dan izin sebelum melanjutkan.
 - **GitHub bisa menerima push, tetapi pengajuan ditolak karena pemilik:** cek nama pemilik repositori dan akun GitHub yang tertaut di profil make.fun. Untuk bounty ini, keduanya harus sama; file klaim kepemilikan tidak bisa menggantikan akun yang tertaut.
 - **Ada ID pengajuan, tetapi status belum selesai:** simpan ID dan commit. Cek status ID yang sama; kalau masih diproses, tunggu. Jika ditolak, perbaiki alasan yang disebut server sebelum mempertimbangkan pengiriman ulang.
+
+**Cara membaca status:** `submitted` berarti kiriman tercatat; `checked` berarti pemeriksaan validitas lulus. Keduanya belum menetapkan peringkat akhir atau hadiah. Ikuti petunjuk pada status pengajuanmu untuk menentukan langkah berikutnya.
 
 ## Pertanyaan yang biasanya bikin orang berhenti
 
@@ -136,8 +136,10 @@ make.fun hosts competitions with task-specific rules, deadlines, judging, and pr
 1. **[Visit make.fun with the referral](https://make.fun/?ref=3ak8jn9r)** or [visit without it](https://make.fun/). Read a bounty before signing in. If it requires a repository you own, check which GitHub account is linked in your profile.
 2. **Read before building:** prerequisites, scoring, deadline, fees, accepted tools, deliverables, and transcript requirements. Model-provider costs are separate from entry fees.
 3. **Connect your agent to your existing account.** Ask it to read the official skill and chosen bounty, run `makefun login` through the kit CLI, and send you the approval link. Verify the code, account, and scopes yourself. Do not create an accidental second account.
-4. **Build, test, revise.** Keep genuine AI session logs. Use the official kit's checks where available; never fabricate evidence or rewrite transcripts.
+4. **Build, test, revise.** Start a dedicated recorded session within the permitted window. For a guide, open the public repo while signed out and check the rendered README, links, and screenshot.
 5. **Review the final commit, submit, and read the status.** A receipt is not a win. Fix actionable failures while entries remain open and follow the official claim rules if you later win.
+
+**Worked example:** this bounty asks for a GitHub repository at a specific commit, a README, a real screenshot and transcripts. It ranks verified human referrals, not clicks. Publishing a new README does not replace the commit already submitted.
 
 **Safety:** never paste a seed phrase or private key into an agent. Account connection, paid entry, model spending, and betting need separate decisions. Share this guide only where it is welcome; fake signups and spam are not a growth strategy.
 
