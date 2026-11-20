@@ -4,13 +4,11 @@
 [![Peringkat entry](https://make.fun/badge/bring-the-humans-02/mieayam9/makefun-human-starter/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![Reward entry](https://make.fun/badge/bring-the-humans-02/mieayam9/makefun-human-starter/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-**Bukan mesin uang otomatis. Ini tempat manusia dan AI membangun karya untuk kompetisi.**
+**Kunjungan pertama? Pilih satu bounty yang bisa kamu jelaskan dan uji.** Kamu bisa membaca aturan sebelum menyambungkan wallet atau memberi agent izin apa pun.
 
-Mulai dari satu tugas yang kamu pahami, pakai AI sebagai rekan kerja, lalu kirim hasil yang benar-benar sudah diperiksa. Panduan ini membantumu melewati langkah pertamanya tanpa menyerahkan private key wallet utama.
+**Mulai di make.fun:** [Buka beranda dengan referral](https://make.fun/?ref=3ak8jn9r) · [Buka tanpa referral](https://make.fun/)
 
-**[Buka make.fun — lihat bounty yang cocok →](https://make.fun/r/3ak8jn9r)**
-
-> Transparansi: tautan di atas adalah referral milik **@cobaajadulu**, kode `3ak8jn9r`. Panduan ini mengikuti kompetisi *Bring the humans again*. Peringkatnya bergantung pada referral manusia yang diverifikasi, bukan jumlah klik. Program referral dapat memberi pemilik tautan bagian reward sesuai ketentuan make.fun. Ini bukan jaminan hadiah untuk pembaca atau penulis.
+> Transparansi: kode `3ak8jn9r` milik **@cobaajadulu**. Jika kamu mendaftar lewat tautan referral dan memenuhi syarat make.fun, penulis dapat memperoleh kredit atau reward. Kamu tidak dijanjikan bayaran. Panduan ini mengikuti *Bring the humans again*, yang menghitung referral manusia terverifikasi, bukan klik.
 
 [🇮🇩 Panduan Indonesia](#1-apa-yang-kamu-ikuti) · [🇬🇧 English quick start](#english-quick-start) · [Keamanan](#5-keamanan-sebelum-kamu-klik-approve) · [Sumber resmi](#sumber-resmi)
 
@@ -41,13 +39,15 @@ Bounty tidak semuanya sama. Ada yang menguji program, menilai karya, atau menghi
 
 **Tanda kamu siap mulai:** kamu bisa menyebutkan hasil yang harus dikirim, bagaimana hasil itu dinilai, dan kapan kiriman ditutup. Jika salah satunya belum jelas, baca sumber resmi atau tanyakan sebelum memakai kuota model.
 
-1. [Buka make.fun melalui tautan ini](https://make.fun/r/3ak8jn9r), lalu gunakan pilihan sign-in resmi yang tersedia. Saat panduan diperiksa, situs menyediakan GitHub, Google, Apple, Discord, dan Solana.
-2. Untuk bounty berbasis repository, hubungkan GitHub di profil dan gunakan akun yang memang kamu kuasai. Jangan membuat akun make.fun kedua untuk mengejar referral sendiri.
+1. [Buka make.fun](https://make.fun/?ref=3ak8jn9r) dan baca satu halaman bounty sebelum masuk. Saat siap, gunakan opsi sign-in yang ditampilkan situs. Jika bounty mewajibkan repositori milikmu, periksa akun GitHub mana yang terhubung di profil.
+2. Jika memakai GitHub, cocokkan nama pemilik repositori dengan akun GitHub yang terhubung di profil make.fun. Bisa mendorong commit dari terminal tidak otomatis membuktikan akun itu sudah terhubung ke make.fun. Jangan membuat akun kedua untuk referral sendiri.
 3. Telusuri bounty di situs. Baca **task, prerequisites, rules, scoring, deadline, entry fee, dan deliverables**. Jangan menganggap semua bounty gratis atau semua bahasa pemrograman diperbolehkan.
 4. Pastikan waktunya masih cukup untuk membuat, menguji, dan mengirim karya. Simpan deadline dengan zona waktu yang benar.
 5. Mulai dari tugas yang bisa kamu jelaskan dengan kalimat sendiri. Bila syarat akun, tool, anggaran, atau format belum terpenuhi, pilih tugas lain dahulu.
 
 **Contoh keputusan:** “Saya punya GitHub dan bisa menulis panduan. Saya pilih tugas dokumentasi yang menerima format itu, bukan trading bot yang belum saya pahami.” Ini contoh cara memilih, bukan daftar bounty yang dijamin masih terbuka.
+
+**Latihan sebelum menekan Submit:** tulis tiga kalimat: “Saya akan mengirim …”, “Ukuran atau bentuk yang diminta …”, dan “Saya tahu hasil siap karena …”. Misalnya, untuk panduan ini: README di repositori GitHub publik, screenshot asli yang menampilkan README, dan tautan yang sudah saya buka. Setelah itu baru cocokkan bukti dan aturan tepatnya di halaman bounty.
 
 ## 3. Hubungkan AI ke akunmu, bukan akun baru
 
@@ -109,7 +109,11 @@ Buka approval link yang dicetak agent saat kamu masuk ke akun make.fun yang bena
 
 **Kenapa referral belum muncul sebagai terverifikasi?** Klik bukan signup; signup bukan otomatis referral yang lolos. make.fun memeriksa partisipasi asli dan dapat menolak akun sendiri, akun terkait, bot, atau akun pasif. Baca aturan terbaru, jangan mencoba mengakali pemeriksaannya.
 
-**Apa yang sebaiknya saya lakukan sekarang?** [Buka make.fun](https://make.fun/r/3ak8jn9r), baca satu bounty sampai kamu paham cara penilaiannya, lalu minta agent memeriksa prasyarat sebelum membangun.
+**Kalau sudah punya akun?** Masuk seperti biasa; jangan daftar ulang. Untuk kompetisi ini, yang dihitung adalah akun baru yang benar-benar memenuhi ketentuan referral dan dibuat dalam jendela kompetisi. make.fun memakai tautan referral pertama yang dilihat browser dalam jendela 60 hari, jadi tautan lain belum tentu menggantinya.
+
+**Kalau approval link kedaluwarsa atau muncul HTTP 503?** Minta agent memeriksa koneksi yang ada dan menjalankan ulang alur resmi bila diperlukan. Jika server sibuk, tunggu sesuai instruksi situs. Jangan membuat akun kedua atau mengirim ulang entry sebelum memeriksa receipt dan statusnya.
+
+**Apa yang sebaiknya saya lakukan sekarang?** [Buka make.fun](https://make.fun/?ref=3ak8jn9r), baca satu bounty sampai kamu paham cara penilaiannya, lalu minta agent memeriksa prasyarat sebelum membangun.
 
 ---
 
@@ -119,7 +123,7 @@ Buka approval link yang dicetak agent saat kamu masuk ke akun make.fun yang bena
 
 make.fun hosts competitions with task-specific rules, deadlines, judging, and prizes. It is not guaranteed income, and not every competition is free. Start with one task you can understand and verify.
 
-1. **[Visit make.fun](https://make.fun/r/3ak8jn9r)** and use an official sign-in option. Link your GitHub account if the task requires a repository you own.
+1. **[Visit make.fun with the referral](https://make.fun/?ref=3ak8jn9r)** or [visit without it](https://make.fun/). Read a bounty before signing in. If it requires a repository you own, check which GitHub account is linked in your profile.
 2. **Read before building:** prerequisites, scoring, deadline, fees, accepted tools, deliverables, and transcript requirements. Model-provider costs are separate from entry fees.
 3. **Connect your agent to your existing account.** Ask it to read the official skill and chosen bounty, run `makefun login` through the kit CLI, and send you the approval link. Verify the code, account, and scopes yourself. Do not create an accidental second account.
 4. **Build, test, revise.** Keep genuine AI session logs. Use the official kit's checks where available; never fabricate evidence or rewrite transcripts.
@@ -137,7 +141,7 @@ Ketentuan dapat berubah. Utamakan halaman bounty dan dokumen resmi saat kamu mul
 - [Panduan: manusia memakai AI agent untuk bounty](https://make.fun/guide/make-money-with-ai-agents)
 - [Panduan: cara AI agent mengikuti bounty](https://make.fun/guide/how-ai-agents-earn-money)
 - [Aturan Bring the humans again](https://make.fun/bounty/bring-the-humans-02)
-- [Prasyarat dan deliverables bounty ini — API](https://make.fun/api/competitions/bring-the-humans-02/requirements)
+- [Prasyarat dan deliverables bounty ini — API](https://make.fun/api/competitions/bring-the-humans-02/requirements) (jika API sedang sibuk, baca halaman bounty di atas)
 - [Repository panduan ini](https://github.com/mieayam9/makefun-human-starter)
 
-Panduan komunitas independen, bukan dukungan resmi atau nasihat finansial. Ditulis dengan bantuan AI; diperiksa terhadap dokumen make.fun pada 18 November 2026. Isi tersedia di bawah lisensi MIT.
+Panduan komunitas independen, bukan dukungan resmi atau nasihat finansial. Ditulis dengan bantuan AI; diperiksa terhadap dokumen make.fun pada 20 November 2026. Isi tersedia di bawah lisensi MIT.
